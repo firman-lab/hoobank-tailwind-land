@@ -58,6 +58,9 @@ export default function Home() {
             />
           </div>
         </div>
+        <a href='#'>
+          <button className='text-white rounded-md px-3 py-2 bg-transparent border-spacing-2 border-2 hover:transition-all animate-bounce duration-300 hover:bg-blue-700 hover:bg-opacity-30 hover:border-blue-800'>Let's Go</button>
+        </a>
 
         <div className={styles.grid}>
           <a
